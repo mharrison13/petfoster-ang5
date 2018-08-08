@@ -3,7 +3,7 @@ import {Status} from "../classes/status";
 import {SignOutService} from "../services/sign-out.service";
 
 @Component({
-	templateUrl: "../../../public_html/templates/sign-out.php"
+	templateUrl: "../../../public_html/templates/sign-out.html"
 })
 
 export class SignOutComponent implements OnInit{

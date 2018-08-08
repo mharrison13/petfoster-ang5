@@ -29,7 +29,7 @@ var ResultComponent = /** @class */ (function () {
     ResultComponent = __decorate([
         core_1.Component({
             selector: "result",
-            templateUrl: "./templates/result.php"
+            templateUrl: "../../../public_html/templates/result.html"
         }),
         __metadata("design:paramtypes", [post_service_1.PostService])
     ], ResultComponent);

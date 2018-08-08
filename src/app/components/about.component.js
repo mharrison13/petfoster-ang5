@@ -13,7 +13,7 @@ var AboutComponent = /** @class */ (function () {
     AboutComponent = __decorate([
         core_1.Component({
             selector: "about",
-            templateUrl: "../public_html/templates/about.php"
+            templateUrl: "../../../public_html/templates/about.html"
         })
     ], AboutComponent);
     return AboutComponent;

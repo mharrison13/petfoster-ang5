@@ -9,7 +9,7 @@ import {State} from "../classes/state";
 declare var $: any;
 @Component({
 	selector: "navbar",
-	templateUrl: "../../../public_html/templates/navbar.php"
+	templateUrl: "../../../public_html/templates/navbar.html"
 })
 // sign in
 export class NavBarComponent {

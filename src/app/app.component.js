@@ -13,7 +13,8 @@ var AppComponent = /** @class */ (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: "petrescue-abq",
-            templateUrl: "./templates/petrescueabq-app.php"
+            templateUrl: "../../../public_html/templates/petrescueabq-app.html"
+
         })
     ], AppComponent);
     return AppComponent;

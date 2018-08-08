@@ -7,7 +7,7 @@ import "rxjs/add/operator/switchMap";
 import {Observable} from "rxjs";
 
 @Component({
-	templateUrl: "../../../public_html/templates/profile.php"
+	templateUrl: "../../../public_html/templates/profile.html"
 })
 
 export class ProfileComponent {

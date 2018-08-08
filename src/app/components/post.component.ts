@@ -9,7 +9,7 @@ import {Observable} from "rxjs";
 import "rxjs/add/observable/from";
 
 @Component({
-	templateUrl: "../../../public_html/templates/post.php"
+	templateUrl: "../../../public_html/templates/post.html"
 })
 
 export class PostComponent implements OnInit{

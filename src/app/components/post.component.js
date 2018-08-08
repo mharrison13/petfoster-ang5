@@ -60,7 +60,7 @@ var PostComponent = /** @class */ (function () {
     };
     PostComponent = __decorate([
         core_1.Component({
-            templateUrl: "../public_html/templates/post.php"
+            templateUrl: "../../../public_html/templates/post.html"
         }),
         __metadata("design:paramtypes", [post_service_1.PostService, router_1.ActivatedRoute])
     ], PostComponent);

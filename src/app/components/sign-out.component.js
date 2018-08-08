@@ -23,7 +23,7 @@ var SignOutComponent = /** @class */ (function () {
     };
     SignOutComponent = __decorate([
         core_1.Component({
-            templateUrl: "./templates/sign-out.php"
+            templateUrl: "../../../public_html/templates/sign-out.html"
         }),
         __metadata("design:paramtypes", [sign_out_service_1.SignOutService])
     ], SignOutComponent);

@@ -48,7 +48,7 @@ var MessageComponent = /** @class */ (function () {
     };
     MessageComponent = __decorate([
         core_1.Component({
-            templateUrl: "./templates/message.php"
+            templateUrl: "../../../public_html/templates/message.html"
         }),
         __metadata("design:paramtypes", [message_service_1.MessageService, organization_service_1.OrganizationService])
     ], MessageComponent);

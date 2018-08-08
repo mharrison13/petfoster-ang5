@@ -8,7 +8,7 @@ import {OrganizationService} from "../services/organization.service";
 import {Organization} from "../classes/organization";
 
 @Component({
-	templateUrl: "../../../public_html/templates/message.php"
+	templateUrl: "../../../public_html/templates/message.html"
 })
 
 export class MessageComponent implements OnInit {

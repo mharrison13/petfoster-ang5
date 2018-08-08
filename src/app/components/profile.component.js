@@ -32,7 +32,7 @@ var ProfileComponent = /** @class */ (function () {
     };
     ProfileComponent = __decorate([
         core_1.Component({
-            templateUrl: "./templates/profile.php"
+            templateUrl: "../../../public_html/templates/profile.html"
         }),
         __metadata("design:paramtypes", [profile_service_1.ProfileService, router_1.ActivatedRoute])
     ], ProfileComponent);

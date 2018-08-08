@@ -12,7 +12,7 @@ var HomeComponent = /** @class */ (function () {
     }
     HomeComponent = __decorate([
         core_1.Component({
-            templateUrl: "./templates/home.php"
+            templateUrl: "../../../public_html/templates/home.html"
         })
     ], HomeComponent);
     return HomeComponent;

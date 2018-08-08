@@ -3,7 +3,7 @@ import {PostService} from "../services/post.service";
 
 @Component({
 	selector: "result",
-	templateUrl: "../../../public_html/templates/result.php"
+	templateUrl: "../../../public_html/templates/result.html"
 })
 
 export class ResultComponent implements OnInit {

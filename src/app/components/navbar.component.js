@@ -62,7 +62,7 @@ var NavBarComponent = /** @class */ (function () {
     NavBarComponent = __decorate([
         core_1.Component({
             selector: "navbar",
-            templateUrl: "./templates/navbar.php"
+            templateUrl: "../../../public_html/templates/navbar.html"
         })
         // sign in
         ,

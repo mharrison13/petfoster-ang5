@@ -13,7 +13,7 @@ var EnderComponent = /** @class */ (function () {
     EnderComponent = __decorate([
         core_1.Component({
             selector: "ender",
-            templateUrl: "./templates/ender.php"
+            templateUrl: "../../../public_html/templates/ender.html"
         })
     ], EnderComponent);
     return EnderComponent;
